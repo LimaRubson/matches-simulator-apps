@@ -8,4 +8,6 @@ App Android Nativo de Simulação de Partidas. Este repositório foi organizado 
      - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/LimaRubson/matches-simulator-apps/tree/release/componentes-layouts-ui-ux-em-apps-android)
 3. Java e Kotlin Juntos!? Construindo Apps Android
      - [release/api-partidas](https://github.com/LimaRubson/matches-simulator-apps/tree/release/api-partidas)
+4. Explorando o Firebase Para Apps Android Resilientes
+     - [release/firebase-apps-android-resilientes](https://github.com/LimaRubson/matches-simulator-apps/tree/release/firebase-apps-android-resilientes)
 
